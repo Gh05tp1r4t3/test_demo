@@ -1,1 +1,8 @@
-added jenkins build set up  Fahad Raza 22i-1768
+Name: Fahad
+
+Roll No: 1768
+
+Contribution: Added my details for SSD Lab 13.
+
+
+
